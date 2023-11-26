@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Nick (@kitchenchem224)
-- 👀 My professional interests are healthcare, food production and energy. My just for funs are poker, language, and nature.
-- 🌱 I’m currently learning physics and robotics.
-- 💞️ I’m looking to collaborate on open source projects relating to embedded devices or organizational tools. 
-- I love my dog. I like most others. 
+- Hi, I’m Nick (@kitchenchem224)
+- I worked in medical devices for six straight years trying to solve a single materials problem. Many nights were spent in a hazmat suite.
+- then realized I actually liked programming and tried to do something ambitious with it
+- but the problem of not knowing what I don't know was an issue
+- so I started plowing through the MIT opencourseware on comp sci, currently learning algorithms
+- dog person 
 
 <!---
 kitchenchem224/kitchenchem224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
