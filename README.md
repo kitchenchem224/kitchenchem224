@@ -1,9 +1,8 @@
-- Hi, I’m Nick (@kitchenchem224)
-- I worked in medical devices for six years trying to solve a material problem. Many nights were spent in a hazmat suite.☣️
-- then I realized I actually liked programming and tried to build something.
-- but not knowing what I don't know was an issue.
-- so I started reading comp sci books and making things.
-- love dogs and nature. 
+- I'm nick (@kitchenchem224)
+- working on enterprise tools to build a better future
+- manufacturing, medical, energy
+- huge dog fan
+- musics good too
 
 <!---
 kitchenchem224/kitchenchem224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
