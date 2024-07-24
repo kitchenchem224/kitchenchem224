@@ -1,8 +1,5 @@
 - I'm nick (@kitchenchem224)
-- working on enterprise tools to build a better future
-- manufacturing, medical, energy
-- huge dog fan
-- musics good too
+- working on a better generation of healthcare infrastructure 
 
 <!---
 kitchenchem224/kitchenchem224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
